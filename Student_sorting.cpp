@@ -1,9 +1,3 @@
-// NAME       : Shubham Poriya
-// Student ID : 202005628
-// Email      : xfem2020@stfx.ca
-
-// Assignment-1: Problem 2
-
 #include <iostream>
 #include <iterator>
 #include <map>
